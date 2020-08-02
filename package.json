@@ -1,7 +1,7 @@
 {
-  "name": "Typescript-Kitchensink",
+  "name": "Console-Resume-Typescript",
   "version": "1.0.0",
-  "main": "Kitchen.js",
+  "main": "Resume.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "webpack -w"
